@@ -3,9 +3,12 @@
     'version': '1.0',
     'depends': ["base", "crm"],
     'author': 'Edgard Pimentel',
+    'email': 'pimentelrojas@gmail.com',
     'website': '',
     'description': 'module customized for CUIDUM',
-    'data': ["data/cront_data.xml"],
+    'data': [
+        "data/cront_data.xml"
+    ],
     'installable': True,
     'active': False
 }
