@@ -7,6 +7,7 @@
     'website': '',
     'description': 'module customized for CUIDUM',
     'data': [
+        "security/ir.model.access.csv",
         "data/cront_data.xml",
         "views/send_automatic_view.xml"
     ],
