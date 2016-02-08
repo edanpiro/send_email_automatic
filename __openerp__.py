@@ -7,7 +7,8 @@
     'website': '',
     'description': 'module customized for CUIDUM',
     'data': [
-        "data/cront_data.xml"
+        "data/cront_data.xml",
+        "views/send_automatic_view.xml"
     ],
     'installable': True,
     'active': False

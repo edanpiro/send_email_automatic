@@ -1,1 +1,1 @@
-from . import crm_lead
+from . import send_automatic
